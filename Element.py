@@ -108,7 +108,7 @@ async def help(ctx, category=None):
         embed = discord.Embed(color=0xFF0000)
         embed.set_image(
             url="")
-        embed.description = f"`FUN COMMANDS`\n`> joke` - tell's you a joke\n`> kiss <user>` - kisses the specified user\n`> slap <user>` - slap's the specified user\n`> hug <user>` - hug's the specified user\n`> smug <user>` - send's gif\n`> pat <user>` - pat's your kitten"
+        embed.description = f"`FUN COMMANDS`\n`> joke` - tell's you a joke\n`> kiss <user>` - kisses the specified user\n`> slap <user>` - slaps the specified user\n`> hug <user>` - hugs the specified user\n`> smug <user>` - send's gif\n`> pat <user>` - pat's your kitten"
         await ctx.send(embed=embed)
     elif str(category).lower() == "account":
         embed = discord.Embed(color=0xFF0000)
