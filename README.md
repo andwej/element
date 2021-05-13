@@ -24,3 +24,4 @@ If everything goes fine, you should be able to run the element.py file in the fo
 Happy skidding!
 
 > Will update if anything new appears from the creators.
+> You can delete the readme and license file after you have done everything.
