@@ -21,7 +21,12 @@ If everything goes fine, you should be able to run the element.py file in the fo
 
 **I will also recommend you to not use the commands that embed your messages a lot as this can get your account terminated on discord, PLEASE USE WITH CAUTION, I HAVE NO RESPONSIBILITY WITH YOUR ACTIONS**
 
+
+
 Happy skidding!
 
 > Will update if anything new appears from the creators.
+ 
 > You can delete the readme and license file after you have done everything.
+ 
+>I also suggest not using the fdmall command unless you know how to change it through the code, I cannot be bothered making it say a custom message.
