@@ -1,6 +1,6 @@
 # Tutorial
 
-To set this self-bot up, you will need to download python, and allow the 'pip' module to be installed, and I would also recommend for you guys to check the *'Add Python to enviroment variables) option.*
+To set this self-bot up, you will need to download python, and allow the 'pip' module to be installed, and I would also recommend for you guys to check the *'Add Python to enviroment variables' option.*
 
 Once you have done this, you can check if you have installed python successfully by writing pip3 into your command prompt which you open by pressing your windows key and writing cmd.exe. 
 
