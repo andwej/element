@@ -17,7 +17,7 @@ If everything goes fine, you should be able to run the element.py file in the fo
 
 *If you are having problems, contact night#0403 on discord and he will help you sort out the problems.*
 
-**I will not take any credits for creating this self bot, as Yanny#1970 and burden/abby's acc#0223 made it.**
+**I will not take any credits for creating this self bot, as Yanny#1970 and burden/abby's acc#0523 made it.**
 
 **I will also recommend you to not use the commands that embed your messages a lot as this can get your account terminated on discord, PLEASE USE WITH CAUTION, I HAVE NO RESPONSIBILITY ON HOW YOU USE THIS SELFBOT**
 
