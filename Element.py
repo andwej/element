@@ -70,7 +70,7 @@ async def on_ready():
                                                   {LIGHT_GRAY}[{RED}Status{LIGHT_GRAY}]{END} ║║ {LIGHT_GRAY}[{LIGHT_RED}Online{LIGHT_GRAY}]
                                                   {LIGHT_GRAY}[{RED}Prefix{LIGHT_GRAY}]{END} ║║ {LIGHT_GRAY}[{LIGHT_RED}{Prefix}{LIGHT_GRAY}]
                          ╔═════════════════════════════════╝╚═════════════════════════════════╗
-                         ║ {LIGHT_RED}Yanny#1970                                  burden/abby's acc#0223{END} ║
+                         ║ {LIGHT_RED}Yanny#1970                                  burden/abby's acc#0523{END} ║
                          ╚════════════════════════════════════════════════════════════════════╝
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
